@@ -1,6 +1,6 @@
 # React Project with Infinite Scroll
 
-created a project with reactJs with simple authentication(actually fake) and implemented a react infinte scroll component.
+created a project with reactJs with simple authentication(actually fake) and implemented a react infinite scroll component.
 
 you can check the project with below given link
 
